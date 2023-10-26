@@ -1,0 +1,73 @@
+commit 24a367087caf05593e9d1deb0e19c0c6894317e6
+Merge: 9ca2ce5 a1fe723
+Author: rajdip <palrajdip33@gmail.com>
+Date:   Thu Oct 26 21:39:07 2023 +0530
+
+    WIP on master: 9ca2ce5 Merge branch 'master' into feature/demo2
+
+commit a1fe723e4476c6e908e1ade2805c0269d57f4f28
+Author: rajdip <palrajdip33@gmail.com>
+Date:   Thu Oct 26 21:39:07 2023 +0530
+
+    index on master: 9ca2ce5 Merge branch 'master' into feature/demo2
+
+commit 9ca2ce5a6cfc2ca9517830a96c0bd6fa60f2c4d7
+Merge: 3ad509a b2681b2
+Author: rajdip <palrajdip33@gmail.com>
+Date:   Thu Oct 26 21:12:10 2023 +0530
+
+    Merge branch 'master' into feature/demo2
+
+commit b2681b2e3e021a2f305edccf360c2fccd1141a3a
+Author: rajdip <palrajdip33@gmail.com>
+Date:   Thu Oct 26 21:10:13 2023 +0530
+
+    second commit after new branch creation
+
+commit 26173c004d3021c23079b29b23c83a39ac632e0b
+Author: rajdip <palrajdip33@gmail.com>
+Date:   Thu Oct 26 21:09:18 2023 +0530
+
+    first commit after new branch creation
+
+commit 3ad509aac59170521c9b7c513b9db1a201d12e00
+Author: rajdip <palrajdip33@gmail.com>
+Date:   Thu Oct 26 21:05:59 2023 +0530
+
+    first commit in feature/demo2
+
+commit 294d6f42775ee904f47143e49934c70c863c0ec7
+Author: Rajdip Pal <palrajdip33@gmail.com>
+Date:   Thu Oct 26 20:43:34 2023 +0530
+
+    Create README.md
+
+commit 484e7a428050db1e774fa0a35eb0cbfd9c32520b
+Author: rajdip <palrajdip33@gmail.com>
+Date:   Thu Oct 26 19:32:17 2023 +0530
+
+    Learned git restore and git amend
+
+commit 0ee9b16aced592079fc58ce4e9e39ea77e9e302e
+Author: rajdip <palrajdip33@gmail.com>
+Date:   Thu Oct 26 18:23:19 2023 +0530
+
+    4th commit, some random text added in text2 file
+
+commit e8369ac5b2e70d5541eb6773616070800cf548ab
+Author: rajdip <palrajdip33@gmail.com>
+Date:   Thu Oct 26 18:22:11 2023 +0530
+
+    3rd commit
+
+commit 1dd4a6418bee89a5a401b7a6cb930a9e0415da3d
+Author: rajdip <palrajdip33@gmail.com>
+Date:   Thu Oct 26 18:21:19 2023 +0530
+
+    2nd commit
+
+commit b470f08318def033b76a488c4d281d75f6eb59f4
+Author: rajdip <palrajdip33@gmail.com>
+Date:   Thu Oct 26 18:18:33 2023 +0530
+
+    First commit
