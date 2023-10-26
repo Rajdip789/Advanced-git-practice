@@ -1,3 +1,2 @@
 This is text2 after second commit
-dshfilsdjks
-sdfjk;sd;
+New message after two branches were created
